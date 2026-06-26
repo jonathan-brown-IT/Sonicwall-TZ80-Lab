@@ -55,11 +55,4 @@ SonicWall TZ80 — Skills Demonstration Checklist
 - [ ] Write a mini audit report (scope, findings, remediation)
 - [ ] Export as a 1-page PDF for portfolio use
 
-## Portfolio Presentation
 
-- [ ] Create a GitHub repo with /configs, /diagrams, /writeups folders
-- [ ] Upload sanitized config exports to the repo
-- [ ] Write a per-section writeup explaining the 'why' behind configs
-- [ ] Map configs to CCNA or Security+ exam objectives explicitly
-- [ ] Version your lab — document what changed between iterations and why
-- [ ] Add lab to portfolio website with topology diagram as the hero image
